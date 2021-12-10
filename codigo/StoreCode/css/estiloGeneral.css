@@ -1,0 +1,27 @@
+nav{
+    background: #004aad;    
+    /*background: #0B3861;*/
+
+}
+footer{
+    background: #004aad;
+}
+
+.cerrar{
+    color: #800000;
+    font-weight: 600;
+}
+
+.boton_crear{
+    background-color:#004aad;
+    
+}
+
+.boton_crear:hover{
+    color: #ffffff;;
+    background-color:  #1883ba;
+  }
+
+.cardlogin{
+    background: #004aad;
+}

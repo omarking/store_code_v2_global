@@ -1,0 +1,12 @@
+.img{
+    margin:10px auto;
+    border-radius:5px;
+    border: 1px solid #999;
+    padding:13px;
+    width:500px;
+    height:200px;
+    background-size: 50% 50%;
+    background-repeat:no-repeat;
+    background:url(../img/tarjeta_frente.jpg);
+    background-size: cover;
+}

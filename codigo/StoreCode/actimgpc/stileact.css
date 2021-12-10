@@ -1,0 +1,37 @@
+nav{    
+    background: #0B3861;
+}
+footer{    
+    background: #0B3861;
+}
+
+.cerrar{
+    color: #FE2E2E;
+    font-weight: 600;
+}
+
+.boton_crear{
+    background-color:#004aad;
+    
+}
+
+.boton_crear:hover{
+    color: #ffffff;;
+    background-color:  #1883ba;
+  }
+
+.cardlogin{    
+    background: #0B3861;
+}
+
+#carruselancho{
+    height: 300px;    
+}
+
+
+
+
+
+
+
+ 
